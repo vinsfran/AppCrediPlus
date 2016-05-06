@@ -1,0 +1,61 @@
+<resources>
+    <string name="txt_nombre_app">AppCrediPlus</string>
+    <string name="txt_nombre_empresa">Credi Plus</string>
+    <string name="txt_cargando">Cargando&#8230;</string>
+    <string name="txt_desarrollado_por">Desarrollado por:</string>
+    <string name="txt_desarrollador" translatable="false">Fuente PY</string>
+    <string name="txt_copyright" translatable="false">© 2016</string>
+    <string name="txt_acceso_sistema">Acceso al sistema</string>
+    <string name="txt_ingreso_documento">Ingreso Documento</string>
+    <string name="txt_ingreso_pin">Ingreso de Pin</string>
+    <string name="txt_ingreso_alta_persona">Alta de persona</string>
+
+    <string name="txt_usuario">Usuario</string>
+    <string name="txt_contrasena">Contraseña</string>
+    <string name="txt_ingresar">Ingresar</string>
+    <string name="txt_agregar">Agregar</string>
+    <string name="txt_cancelar">Cancelar</string>
+    <string name="txt_guardar">Guardar</string>
+    <string name="txt_version">Versión</string>
+
+    <string name="txt_atencion">Atención</string>
+    <string name="txt_aceptar">Aceptar</string>
+    <string name="txt_enviar">Enviar</string>
+    <string name="txt_enviar_datos">Enviar Datos</string>
+    <string name="txt_confirmar">Confirmar</string>
+
+    <string name="txt_numero_documento">Número de documento</string>
+    <string name="txt_nombre">Nombre</string>
+    <string name="txt_apellido">Apellido</string>
+    <string name="txt_numero_telefono">Telefono</string>
+    <string name="txt_numero_celular">Celular</string>
+    <string name="txt_direccion">Dirección</string>
+    <string name="txt_fecha_nac">Fecha de Nacimiento</string>
+
+    <string name="txt_numero_pin">Número de pin</string>
+
+    <!-- Mensajes para campos vacios -->
+    <string name="txt_mensaje_alerta_campo_vacio">Debe completar el campo</string>
+    <string name="txt_mensaje_alerta_campos_vacios">Debe completar los campos</string>
+    <string name="txt_mensaje_alerta_campo_usuario_vacio">Campo Usuario no puede estar vacio</string>
+    <string name="txt_mensaje_alerta_campo_contrasena_vacio">Campo Contraseña no puede estar vacio</string>
+    <string name="txt_mensaje_alerta_campo_nro_documento_vacio">Campo Número de Documento no puede estar vacio</string>
+    <string name="txt_mensaje_alerta_campo_nro_celular_vacio">Campo Número de Celular no puede estar vacio</string>
+    <string name="txt_mensaje_alerta_campo_nro_pin_vacio">Campo Número de Pin no puede estar vacio</string>
+    <string name="title_activity_login3">Sign in</string>
+
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+</resources>
